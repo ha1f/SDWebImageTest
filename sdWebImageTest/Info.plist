@@ -32,7 +32,7 @@
 		<false/>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>life-is-tech.com</key>
+			<key>pbs.twimg.com</key>
 			<dict>
 				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
 				<false/>

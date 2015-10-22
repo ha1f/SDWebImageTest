@@ -4,17 +4,7 @@ PODS:
   - SDWebImage/Core (3.7.3)
 
 DEPENDENCIES:
-  - SDWebImage (from `https://github.com/rs/SDWebImage.git`, branch `master`)
-
-EXTERNAL SOURCES:
-  SDWebImage:
-    :branch: master
-    :git: https://github.com/rs/SDWebImage.git
-
-CHECKOUT OPTIONS:
-  SDWebImage:
-    :commit: 0ecd13667db4aac04d7f836c134969961ec3bb8a
-    :git: https://github.com/rs/SDWebImage.git
+  - SDWebImage
 
 SPEC CHECKSUMS:
   SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84

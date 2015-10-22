@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         if imageView == nil {
             imageView = UIImageView(frame: self.view.frame)
             imageView.backgroundColor = UIColor.blueColor()
-            imageView.sd_setImageWithURL(NSURL(string: "https://life-is-tech.com/images/apple-touch-icon-114x114.png"))
+            imageView.sd_setImageWithURL(NSURL(string: "https://pbs.twimg.com/profile_images/648801531702083584/nqCFf1AY.png"))
             imageView.contentMode = UIViewContentMode.ScaleAspectFit
             self.view.addSubview(imageView)
         }
